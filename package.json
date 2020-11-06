@@ -1,0 +1,60 @@
+{
+  "_from": "@supersami/react-native-foreground-service",
+  "_id": "@supersami/react-native-foreground-service@0.3.1",
+  "_inBundle": false,
+  "_integrity": "sha512-7bKizd15bgOOk97waeuI0RdUr5vhbixBdj8tzJgo29rF1iLvKXOPUeZSxRaboh0AYMslbic9W9c0zt+jSh6p4A==",
+  "_location": "/@supersami/react-native-foreground-service",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@supersami/react-native-foreground-service",
+    "name": "@supersami/react-native-foreground-service",
+    "escapedName": "@supersami%2freact-native-foreground-service",
+    "scope": "@supersami",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@supersami/react-native-foreground-service/-/react-native-foreground-service-0.3.1.tgz",
+  "_shasum": "a93dc0df83456fef52accd4e12451e76b1e33be9",
+  "_spec": "@supersami/react-native-foreground-service",
+  "_where": "/home/revanth_g/Hankerbee/frontend/HankerbeeParter",
+  "author": {
+    "name": "Raja Osama",
+    "url": "supersami"
+  },
+  "bugs": {
+    "url": "https://github.com/dksami/-supersami-react-native-foreground-service/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A React Native android module to support launching a foreground service and JS code execution",
+  "homepage": "https://github.com/dksami/-supersami-react-native-foreground-service#readme",
+  "keywords": [
+    "react",
+    "react-native",
+    "android",
+    "foreground",
+    "service",
+    "background"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@supersami/react-native-foreground-service",
+  "peerDependencies": {
+    "react-native": ">=0.59.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dksami/-supersami-react-native-foreground-service.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.3.1"
+}

@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/home/revanth_g/Hankerbee/frontend/HankerbeeParter/node_modules/@supersami/react-native-foreground-service/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/home/revanth_g/.gradle/caches/transforms-2/files-2.1/ea3c216c05240ac796daef2b01f82a42/jetified-react-native-0.63.2/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/home/revanth_g/Hankerbee/frontend/HankerbeeParter/node_modules/@supersami/react-native-foreground-service/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/home/revanth_g/.gradle/caches/transforms-2/files-2.1/37631cd0ab1b46aeb23414622984ad25/appcompat-1.0.2/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/revanth_g/Hankerbee/frontend/HankerbeeParter/node_modules/@supersami/react-native-foreground-service/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/home/revanth_g/.gradle/caches/transforms-2/files-2.1/ea3c216c05240ac796daef2b01f82a42/jetified-react-native-0.63.2/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/home/revanth_g/Hankerbee/frontend/HankerbeeParter/node_modules/@supersami/react-native-foreground-service/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/revanth_g/.gradle/caches/transforms-2/files-2.1/37631cd0ab1b46aeb23414622984ad25/appcompat-1.0.2/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/revanth_g/Hankerbee/frontend/HankerbeeParter/node_modules/@supersami/react-native-foreground-service/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/home/revanth_g/.gradle/caches/transforms-2/files-2.1/37631cd0ab1b46aeb23414622984ad25/appcompat-1.0.2/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/revanth_g/Hankerbee/frontend/HankerbeeParter/node_modules/@supersami/react-native-foreground-service/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/revanth_g/.gradle/caches/transforms-2/files-2.1/37631cd0ab1b46aeb23414622984ad25/appcompat-1.0.2/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/revanth_g/Hankerbee/frontend/HankerbeeParter/node_modules/@supersami/react-native-foreground-service/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/home/revanth_g/.gradle/caches/transforms-2/files-2.1/37631cd0ab1b46aeb23414622984ad25/appcompat-1.0.2/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/revanth_g/Hankerbee/frontend/HankerbeeParter/node_modules/@supersami/react-native-foreground-service/android/build/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/home/revanth_g/.gradle/caches/transforms-2/files-2.1/37631cd0ab1b46aeb23414622984ad25/appcompat-1.0.2/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/home/revanth_g/Hankerbee/frontend/HankerbeeParter/node_modules/@supersami/react-native-foreground-service/android/build/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/home/revanth_g/.gradle/caches/transforms-2/files-2.1/37631cd0ab1b46aeb23414622984ad25/appcompat-1.0.2/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/home/revanth_g/Hankerbee/frontend/HankerbeeParter/node_modules/@supersami/react-native-foreground-service/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/home/revanth_g/.gradle/caches/transforms-2/files-2.1/37631cd0ab1b46aeb23414622984ad25/appcompat-1.0.2/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/revanth_g/Hankerbee/frontend/HankerbeeParter/node_modules/@supersami/react-native-foreground-service/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/home/revanth_g/.gradle/caches/transforms-2/files-2.1/37631cd0ab1b46aeb23414622984ad25/appcompat-1.0.2/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/revanth_g/Hankerbee/frontend/HankerbeeParter/node_modules/@supersami/react-native-foreground-service/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/home/revanth_g/.gradle/caches/transforms-2/files-2.1/37631cd0ab1b46aeb23414622984ad25/appcompat-1.0.2/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/revanth_g/Hankerbee/frontend/HankerbeeParter/node_modules/@supersami/react-native-foreground-service/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/home/revanth_g/.gradle/caches/transforms-2/files-2.1/37631cd0ab1b46aeb23414622984ad25/appcompat-1.0.2/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/revanth_g/Hankerbee/frontend/HankerbeeParter/node_modules/@supersami/react-native-foreground-service/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/home/revanth_g/.gradle/caches/transforms-2/files-2.1/ea3c216c05240ac796daef2b01f82a42/jetified-react-native-0.63.2/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/home/revanth_g/Hankerbee/frontend/HankerbeeParter/node_modules/@supersami/react-native-foreground-service/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/home/revanth_g/.gradle/caches/transforms-2/files-2.1/ea3c216c05240ac796daef2b01f82a42/jetified-react-native-0.63.2/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/home/revanth_g/Hankerbee/frontend/HankerbeeParter/node_modules/@supersami/react-native-foreground-service/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/home/revanth_g/.gradle/caches/transforms-2/files-2.1/ea3c216c05240ac796daef2b01f82a42/jetified-react-native-0.63.2/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/home/revanth_g/Hankerbee/frontend/HankerbeeParter/node_modules/@supersami/react-native-foreground-service/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/home/revanth_g/.gradle/caches/transforms-2/files-2.1/ea3c216c05240ac796daef2b01f82a42/jetified-react-native-0.63.2/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/home/revanth_g/Hankerbee/frontend/HankerbeeParter/node_modules/@supersami/react-native-foreground-service/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/home/revanth_g/.gradle/caches/transforms-2/files-2.1/37631cd0ab1b46aeb23414622984ad25/appcompat-1.0.2/res/anim/abc_fade_out.xml"
+    }
+]
